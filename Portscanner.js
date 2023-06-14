@@ -1,6 +1,6 @@
 const net = require('net')
 
-const host = 'shadi-viah.com'   ; 
+const host = 'The address you want to scan'   ; 
 const startPort = 1; 
 const endPort = 1000; 
 
