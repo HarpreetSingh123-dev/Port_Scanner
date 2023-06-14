@@ -1,6 +1,6 @@
 const net = require('net')
 
-const host = 'www.scotiabank.com'   ; 
+const host = 'shadi-viah.com'   ; 
 const startPort = 1; 
 const endPort = 1000; 
 
